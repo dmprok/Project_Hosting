@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+Архив/
+test_images/
+train_images/
+CrowdAnnotations.tsv
+ExpertAnnotations.tsv
+test_images.csv
+test_queries.csv
+train_dataset.csv
+.DS_Store
+
